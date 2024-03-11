@@ -1,0 +1,42 @@
+body{
+    background-color: blueviolet;
+
+}
+
+#main-header {
+    color: blue;
+    font-size: xx-large;
+    font-style: oblique;
+}
+
+#unordered{
+color: brown;
+font-size: 100%;
+font-style:var(border);
+text-decoration-line: underline;
+}
+table, th, td {
+    border:solid;
+    width : 50%;
+    height: 50px;
+    background-color:brown
+} 
+th {
+    text-align: center;
+}
+td {
+text-align: left;
+}
+input {
+    width: 30%;
+    max-height:max-content;
+    color: black;
+    border: 2px solid black;
+    font-size: larger;
+}
+img {
+    height: 250px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
